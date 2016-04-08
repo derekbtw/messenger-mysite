@@ -1,7 +1,7 @@
 # Struck Messenger
 Facebook Messenger on your website
 
-Demo: http://struck.io/messenger
+Demo: http://struck.io/messenger | [Getting Started]
 
 ### Version
 3.2.7
@@ -68,6 +68,7 @@ License
 MIT
 
 
+   [Getting Started]: <https://github.com/struck-io/messenger#getting-started>
    [Balloon.css]: <http://kazzkiq.github.io/balloon.css/>
    [Facebook Messenger Branding Guidelines]: <https://developers.facebook.com/docs/messenger/brand-guidelines>
    [Freepik]: <http://www.freepik.com/>
