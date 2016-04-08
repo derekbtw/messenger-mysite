@@ -25,6 +25,7 @@ This is still in the early stages so contributing to the project is greatly appr
 <link href="css/struck-messenger.css" rel="stylesheet">
 ```
 ```html
+<script src="https://code.jquery.com/jquery-1.12.3.min.js"></script> <!-- if needed -->
 <script src="js/struck-messenger.min.js"></script>
 ```
 
