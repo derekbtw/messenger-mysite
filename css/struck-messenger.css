@@ -1,0 +1,97 @@
+.messenger-android {
+  width: 80px;
+  height: 80px;
+  background: url('../img/demo-android-icon.png') no-repeat;
+  background-size: 80px 80px;
+  color: #FFF;
+  cursor: pointer;
+  text-align: center;
+  position: fixed;
+  right: 50px;
+  bottom: 50px;
+  display: block;
+  /*transition: background .05s;*/
+}
+.messenger-android:hover {
+  width: 80px;
+  height: 80px;
+  background: url('../img/demo-android-icon_hover.png') no-repeat;
+  background-size: 80px 80px;
+}
+#m-android {
+  background: url('../img/demo-android-icon_hover.png') no-repeat;
+  background-size: 0;
+}
+
+
+.messenger-ios {
+  width: 80px;
+  height: 80px;
+  background: url('../img/demo-ios-icon.png') no-repeat;
+  background-size: 80px 80px;
+  color: #FFF;
+  cursor: pointer;
+  text-align: center;
+  position: fixed;
+  left: 50px;
+  bottom: 50px;
+  display: block;
+  /*transition: background .05s;*/
+}
+.messenger-ios:hover {
+  width: 80px;
+  height: 80px;
+  background: url('../img/demo-ios-icon_hover.png') no-repeat;
+  background-size: 80px 80px;
+}
+#m-ios {
+  background: url('../img/demo-ios-icon_hover.png') no-repeat;
+  background-size: 0;
+}
+
+
+// hover effects by:   http://ianlunn.github.io/Hover/
+// make sure you check it out and add any hover effect
+// that you want. http://daneden.github.io/animate.css/
+// is also a good one to use.
+
+.hvr-grow {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+}
+.hvr-grow:hover, .hvr-grow:focus, .hvr-grow:active {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+
+.hvr-float {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+.hvr-float:hover, .hvr-float:focus, .hvr-float:active {
+  -webkit-transform: translateY(-8px);
+  transform: translateY(-8px);
+}
