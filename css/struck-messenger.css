@@ -50,10 +50,10 @@
 }
 
 
-// hover effects by:   http://ianlunn.github.io/Hover/
-// make sure you check it out and add any hover effect
-// that you want. http://daneden.github.io/animate.css/
-// is also a good one to use.
+/* hover effects by: http://ianlunn.github.io/Hover/
+make sure you check it out and add any hover effect
+that you want. http://daneden.github.io/animate.css/
+is also a good one to use. */
 
 .hvr-grow {
   display: inline-block;
