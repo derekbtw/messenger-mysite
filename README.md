@@ -1,4 +1,4 @@
-# Struck Messenger
+# Messenger-Mysite
 Facebook Messenger on your website
 
 ### Version
