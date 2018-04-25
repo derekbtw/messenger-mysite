@@ -20,11 +20,11 @@ This is still in the early stages so contributing to the project is greatly appr
 
 ```html
 <link href="css/balloon.min.css" rel="stylesheet"> <!-- optional tooltips -->
-<link href="css/struck-messenger.css" rel="stylesheet">
+<link href="css/messenger-mysite.css" rel="stylesheet">
 ```
 ```html
 <script src="https://code.jquery.com/jquery-1.12.3.min.js"></script> <!-- if needed -->
-<script src="js/struck-messenger.min.js"></script>
+<script src="js/messenger-mysite.min.js"></script>
 ```
 
 * Paste this somewhere on your pages like the footer with your Facebook username included in the URL.
