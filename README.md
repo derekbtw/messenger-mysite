@@ -1,17 +1,15 @@
 # Struck Messenger
 Facebook Messenger on your website
 
-Demo: http://struck.io/messenger | [Getting Started]
-
 ### Version
 0.0.1
 
 This is a tiny package that lets you add Facebook Messenger to your website for chat functionality with almost zero installation. The chat icon opens a chat window with you from messenger.com (m.me). This can be done with Pages and personal accounts. It will also direct them to a chat with you in Messenger if they're on iOS as well. I haven't tested this with Android yet.
 
 
-[![](http://i.imgur.com/6wYl59g.png)](http://struck.io/messenger)
+[![](http://i.imgur.com/6wYl59g.png)]
 
-[![](http://i.imgur.com/Gcw3B4P.png)](http://struck.io/messenger)
+[![](http://i.imgur.com/Gcw3B4P.png)]
 
 This is still in the early stages so contributing to the project is greatly appreciated! Maybe some more icon templates?
 
